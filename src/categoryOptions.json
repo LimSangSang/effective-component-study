@@ -1,0 +1,9 @@
+[
+    {"id": 1, "category": "알림"},
+    {"id": 2, "category": "사이드바"},
+    {"id": 3, "category": "테마"},
+    {"id": 4, "category": "메세지 및 미디어"},
+    {"id": 5, "category": "언어 및 지역"},
+    {"id": 6, "category": "접근성"},
+    {"id": 7, "category": "읽음으로 표시"}
+]
